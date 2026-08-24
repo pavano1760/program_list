@@ -4,7 +4,7 @@
    <a href="https://bhaktisudha.co.in/" target="_blank">भक्तीसुधा</a>
 
 2. **भक्तीसुधा कार्यक्रम**  
-   <a href="https://bhaktisudha.co.in/radio/" target="_blank">भक्तीसुधा कार्यक्रम ↗</a>
+   <a href="https://bhaktisudha.co.in/radio/" target="_blank">भक्तीसुधा कार्यक्रम</a>
 
 3. **तरंग**  
    <a href="https://silverstream.radioca.st/" target="_blank">तरंग </a>
